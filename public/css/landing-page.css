@@ -17,7 +17,7 @@ body, h1, h2, h3, h4, h5, h6 {
 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 50px;
 	color: #f8f8f8;
-	background: url(../img/intro-bg.jpg) no-repeat center center;
+	background: url(../img/cyberpunk11.jpg) no-repeat center center;
 	background-size: cover;
 	text-align: center;
 }
@@ -99,7 +99,30 @@ body, h1, h2, h3, h4, h5, h6 {
 .banner {
 	padding: 100px 0;
 	color: #f8f8f8;
-	background: url(../img/banner-bg.jpg) no-repeat center center;
+}
+
+.banner.background-01 {
+	background: url(../img/cyberpunk02.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.banner.background-02 {
+	background: url(../img/tintin.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.banner.background-03 {
+	background: url(../img/rainbow.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.banner.background-04 {
+	background: url(../img/cyberpunk06.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.banner.background-05 {
+	background: url(../img/egyptianuprising.jpg) no-repeat center center;
 	background-size: cover;
 }
 
