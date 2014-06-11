@@ -186,6 +186,10 @@ p.copyright {
 	float: left;
 }
 
+.text-center-align {
+	text-align: center;
+}
+
 /* IcoMoon codes */
 
 @font-face {
