@@ -209,3 +209,8 @@ p.copyright {
 .icon-octopus:before {
 	content: "\21";
 }
+
+/* sohelpful */
+div.schedule-panel-small {
+	float: right;
+}
