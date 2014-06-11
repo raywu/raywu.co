@@ -181,11 +181,11 @@ p.copyright {
 
 .img-responsive.float-left {
 	display: block;
-	max-width: 35%;
+	max-width: 30%;
 	height: auto;
 	float: left;
 	margin: auto;
-	clear: both;
+	/*clear: both;*/
 }
 
 .text-center-align {
