@@ -179,15 +179,6 @@ p.copyright {
 	margin: 15px 0 0;
 }
 
-.img-responsive.float-left {
-	display: block;
-	max-width: 30%;
-	height: auto;
-	float: left;
-	margin: auto;
-	/*clear: both;*/
-}
-
 .text-center-align {
 	text-align: center;
 }
@@ -223,7 +214,34 @@ p.copyright {
 	content: "\21";
 }
 
-/* sohelpful */
-div.schedule-panel-small {
+/* sohelpful and img on the scheduling section*/
+/*div.schedule-panel-small {
 	float: right;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline;
+	max-width: 70%
+	height: auto;
+	clear: both;
+}*/
+
+div.widget-container-small-raywu {
+	/*position: relative;*/
+	margin-left: auto;
+	margin-right: auto;
+	display: inline;
+	/*max-width: 45%;*/
+	/*height: auto;*/
+}
+
+.img-responsive.fifty-percent {
+	display: inline;
+	max-width: 50%;
+	/*height: auto;*/
+	/*float: left;*/
+	/*position: relative;*/
+	margin-left: auto;
+	margin-right: auto;
+	/*clear: both;*/
 }
