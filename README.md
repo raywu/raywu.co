@@ -1,5 +1,9 @@
-raywu.co
-========
+# raywu.co
 
-+ Start Bootstrap template
-+ http://startbootstrap.com/landing-page
++ landing page for www.raywu.co
+
+# Deployment
+
+```
+  git push heroku master:branch-name
+```
